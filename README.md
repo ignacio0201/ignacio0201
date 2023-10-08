@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/QyEwRuJ.png">
 
-<p><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Sobre mí</p>
+<p><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <strong>Sobre mí</strong></p>
 
 
 
