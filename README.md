@@ -46,7 +46,7 @@
 
 
 <!-- plugin analytics -->
-## ⚙️ GitHub Analytics
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Analytics
 <p align="center">
 <a href="https://github.com/ignacio0201">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ignacio0201&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
