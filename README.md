@@ -47,11 +47,11 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
 
 
 
-<!-- contactame -->
+<!-- conecta conmigo -->
 ## 🤝 Conecta conmigo 
 
-https://img.icons8.com/fluency/48/000000/instagram-new.png "@nach0.gtr")](https://www.instagram.com/nach0.gtr/) 
-[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@ignacio0201](https://img.icons8.com/fluency/48/000000/linkedin.png "@ignacio0201")](https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/)
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
 
 <!-- plugin analytics -->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Analytics
