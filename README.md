@@ -3,15 +3,14 @@
 </h1>
 
 
+
 <img src="https://i.imgur.com/QyEwRuJ.png">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-<p align="center">
-  <a </a>
-</p>
+<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/" <img src="https://readme-typing-svg.herokuapp.com?				font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola!,+soy+Ignacio+Miranda;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 
 
 
