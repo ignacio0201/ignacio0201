@@ -17,7 +17,7 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
 <ul>
   <li>Apasionado Desarrollador Web</li>
   <li>Graduado de <a href="https://www.codingdojo.la/" target="_blank">Coding Dojo</a> (Bootcamp Full Stack Java)</li>
-  <li>Conocimientos tanto en Back End como en Front End</li>
+  <li>Conocimientos tanto en Back-End como en Front-End</li>
   <li>Mi curiosidad me impulsa a un aprendizaje continuo</li>
   <li>Abierto a oportunidades laborales con entorno positivo</li>
   <li>Me gusta salir en bicicleta</li>
