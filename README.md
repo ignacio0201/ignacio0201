@@ -1,6 +1,6 @@
 <!-- presentacion -->
 <h1 align=center>
-<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300338C&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+soy+Ignacio+Miranda!"</a>
+<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300338C&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+soy+Ignacio+Miranda!"</a>
 </h1>
 
 <!-- banner -->
