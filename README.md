@@ -50,8 +50,8 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
 <!-- conecta conmigo -->
 ## 🤝 Conecta conmigo 
 
-[![@ignacio0201](https://img.icons8.com/fluency/48/000000/linkedin.png "@ignacio0201")](https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/)
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@ignacio-miranda-arévalo](https://img.icons8.com/fluency/48/000000/linkedin.png "@ignacio0201")](https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/)
+[![@ignacio.miranda.arevalo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ignacio.miranda.arevalo@gmail.com")](ignacio.miranda.arevalo@gmail.com)
 
 <!-- plugin analytics -->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Analytics
