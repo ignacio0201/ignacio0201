@@ -1,5 +1,5 @@
 <h1 align=center>
-	<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230093FF&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+soy+Ignacio+Miranda!;Desarrollador+Web"</a>
+	<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230093FF&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+soy+Ignacio+Miranda!"</a>
 </h1>
 
 <img src="https://i.imgur.com/QyEwRuJ.png">
