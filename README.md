@@ -1,6 +1,6 @@
 <h1 align=center>
   <a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/">¡Hola, soy Ignacio Miranda! 👋</a>
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 </h1>
 <hr>
 <img src="https://i.imgur.com/QyEwRuJ.png">
