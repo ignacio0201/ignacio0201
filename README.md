@@ -1,4 +1,6 @@
-<div align=center>¡Hola, soy Ignacio Miranda! 👋</div>
+<h1 align=center>¡Hola, soy Ignacio Miranda! 👋</h1>
+<hr>
+<img src="https://i.imgur.com/QyEwRuJ.png">
 
 <!--
 **ignacio0201/ignacio0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
