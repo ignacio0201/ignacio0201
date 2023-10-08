@@ -22,7 +22,7 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
   <li>Abierto a oportunidades laborales con entorno positivo</li>
   <li>Me gusta salir en bicicleta</li>
 </ul>
-
+<br>
 
 <!-- tecnologías -->
 ## ⚙️ Tecnologías
@@ -44,14 +44,15 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 
 </p>
-
-
+<br>
 
 <!-- conecta conmigo -->
 ## 🤝 Conecta conmigo 
 
 [![@ignacio-miranda-arévalo](https://img.icons8.com/fluency/48/000000/linkedin.png "@ignacio-miranda-arévalo")](https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/)
 [![@ignacio.miranda.arevalo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ignacio.miranda.arevalo@gmail.com")](ignacio.miranda.arevalo@gmail.com)
+
+<br>
 
 <!-- plugin analytics -->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Analytics
