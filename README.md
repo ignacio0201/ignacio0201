@@ -1,6 +1,7 @@
 <h1 align=center>
-  <a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/">¡Hola, soy Ignacio Miranda! 👋</a>
+	<a href="https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/" <img src="https://readme-typing-svg.herokuapp.com?				font=Time+New+Roman&color=%00AEFF&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola!,+soy+Ignacio+Miranda;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </h1>
+
 
 <img src="https://i.imgur.com/QyEwRuJ.png">
 
@@ -9,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Sobre+mí;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a </a>
 </p>
 
 
