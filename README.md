@@ -11,6 +11,14 @@
 
 <!-- Sobre mi -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+<ul>
+  <li>Apasionado Desarrollador Web</li>
+  <li>Graduado de Coding Dojo (Bootcamp Full Stack Java)</li>
+  <li>Conocimientos tanto en Back End como en Front End</li>
+  <li>Mi curiosidad me impulsa a un aprendizaje continuo</li>
+  <li>Abierto a oportunidades laborales con entorno positivo</li>
+  <li>Me gusta salir en bicicleta</li>
+</ul>
 
 
 <!-- tecnologías -->
