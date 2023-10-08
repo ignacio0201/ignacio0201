@@ -59,7 +59,7 @@ align="right" width="230px" src="https://camo.githubusercontent.com/2309797487e5
 ## 🤝 Conecta conmigo 
 
 [![@ignacio-miranda-arévalo](https://img.icons8.com/fluency/48/000000/linkedin.png "@ignacio-miranda-arévalo")](https://www.linkedin.com/in/ignacio-miranda-ar%C3%A9valo/)
-[![@ignacio.miranda.arevalo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ignacio.miranda.arevalo@gmail.com")](ignacio.miranda.arevalo@gmail.com)
+[![@ignacio.miranda.arevalo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ignacio.miranda.arevalo@gmail.com")](ignacio.miranda.arevalo@gmail.com)
 
 <br>
 
